@@ -12,4 +12,5 @@ Deployed using Heroku.
 
 ## Deployment
 
-[Link]
+View the Heroku Deployment Here:
+[https://texteditorbc.herokuapp.com/]
